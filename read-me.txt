@@ -1,0 +1,4 @@
+This project reads in a word search puzzle and a list of words to find.
+It looks for the words within the puzzle. 
+The words can be found in one of eight possible directions horizontally, vertically or diagonally.
+The project returns whether or not the word was found, and if found, what position it was found in.
